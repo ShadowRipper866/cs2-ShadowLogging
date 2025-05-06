@@ -31,4 +31,3 @@ Log Chat to locally/Discord
 
 ### [1.0.0]
 - Created plugin.
-
