@@ -306,7 +306,7 @@ namespace ShadowLogger.Config
             public ConfigData()
             {
                 Version = ShadowChatLogger.Instance.ModuleVersion;
-                Link = "https://github.com/oqyh/ShadowRipper866";
+                Link = "https://github.com/ShadowRipper866/cs2-ShadowLogging";
 
                 Locally_Enable = 1;
                 Locally_LogMessagesOnly = 1;
